@@ -18,7 +18,8 @@ function App() {
       </header>
 
       <main>
-        <h1>Title top</h1>
+        <h1>Titl top</h1>
+        <p>Some later changes</p>
       </main>
 
       <Footer />
