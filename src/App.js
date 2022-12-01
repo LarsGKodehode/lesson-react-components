@@ -9,7 +9,7 @@ import GoodlyPlacedComponent from "./components/GoodlyPlacedComponent/GoodlyPlac
 function App() {
   return (
     <>
-      <header>
+      <header className="header">
         <nav>
           <ul>
             <li><a href="#/">top</a></li>
